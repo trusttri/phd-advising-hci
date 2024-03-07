@@ -217,6 +217,10 @@ b {
 	text-align: center;
 }
 
+#proposal {
+	text-align: center;
+}
+
 .team-card {
 	display: inline-block;
     min-width: 0;
