@@ -24,18 +24,10 @@ b {
 }
 
 #update {
-	color: #b87a17fa;
+	color: #005e85;
 }
 
-#update a {
-	color: #b87a17fa;
-	text-decoration: underline;
-}
 
-#update a:hover {
-	color: #dca605;
-	text-decoration: underline;
-}
 
 .description {
 	margin-top: 30px;
